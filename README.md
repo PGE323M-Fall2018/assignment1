@@ -4,7 +4,7 @@ The aim of this assignment is to get familiarized with git and basic Unix comman
 
 ## Instructions
 
- 1. Clone the assignment1 repository to your JupyterLab workspace.
+ 1. Clone the assignment1 repository to your JupyterLab workspace on (https://spindletop.pge.utexas.edu).
 
  2. In the command window, navigate to the assignment1 repository and create a new text file `solution.txt`.
 
